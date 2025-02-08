@@ -1,0 +1,6 @@
+{
+    "ROLE_CREATED": "Role created successfully.",
+    "ROLE_EXISTS": "Role '{role}' already exists.",
+    "ROLE_NOT_FOUND": "Role not found.",
+    "UNAUTHORIZED": "You are not authorized to perform this action."
+  }
